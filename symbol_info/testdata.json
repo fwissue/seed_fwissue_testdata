@@ -47,7 +47,8 @@
         "ANET",
         "SPY",
         "QQQ",
-        "XOM"
+        "XOM",
+        "TSM"
     ],
     "description": [
         "NOW Gamma/Vanna Feed",
@@ -97,7 +98,8 @@
         "ANET Gamma/Vanna Feed",
         "SPY Gamma/Vanna Feed",
         "QQQ Gamma/Vanna Feed",
-        "XOM Gamma/Vanna Feed"
+        "XOM Gamma/Vanna Feed",
+        "TSM Gamma/Vanna Feed"
     ],
     "pricescale": 100
 }
