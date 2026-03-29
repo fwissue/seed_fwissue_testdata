@@ -3,288 +3,288 @@
         "gamma": 36841104.84594202,
         "vanna": 248701369.6358171,
         "spot": 51.0,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "HIMS": {
         "gamma": 43201112.00004284,
         "vanna": 6357360.881768455,
         "spot": 14.32,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "COIN": {
         "gamma": 46299725.70139497,
         "vanna": 733370284.4614221,
         "spot": 122.49,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "NVDA": {
         "gamma": 496181360.52446103,
         "vanna": 9472514584.139057,
         "spot": 57.9,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "SNDK": {
         "gamma": 12358709.011684172,
         "vanna": 656708592.3098385,
         "spot": 305.7,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "MSTR": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "MU": {
         "gamma": 147504024.24823615,
         "vanna": 8065328650.343168,
         "spot": 321.5,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "TSLA": {
         "gamma": 146500329.83576232,
         "vanna": 16607310401.769787,
         "spot": 115.79,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "NET": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "AAPL": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "AMZN": {
         "gamma": 197459999.8530502,
         "vanna": 9236199291.948126,
         "spot": 71.0,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "MSFT": {
         "gamma": 31288608.43132662,
         "vanna": 4621641069.174549,
         "spot": 28.8,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "CRM": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "NFLX": {
         "gamma": 330621900.7611612,
         "vanna": 2021986254.6519256,
         "spot": 53.58,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "META": {
         "gamma": 10938495.943842422,
         "vanna": 3934963131.582226,
         "spot": 26.85,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "RKLB": {
         "gamma": 15989119.074853739,
         "vanna": 10756854.788963865,
         "spot": 20.82,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "ALAB": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "CRDO": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "PLTR": {
         "gamma": 171627568.88334543,
         "vanna": 2495736745.137224,
         "spot": 93.66,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "GOOG": {
         "gamma": 72052900.27570553,
         "vanna": 2328524194.368829,
         "spot": 105.08,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "AVGO": {
         "gamma": 25252770.39073696,
         "vanna": 1556436266.6528492,
         "spot": 39.86,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "BE": {
         "gamma": 16795522.946342345,
         "vanna": 82260090.81144539,
         "spot": 64.18,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "GEV": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "GLD": {
         "gamma": 242093585.20595005,
         "vanna": 29107600661.01976,
         "spot": 124.6,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "SLV": {
         "gamma": 277835294.32408446,
         "vanna": 352959911.8423359,
         "spot": 22.3,
-        "last_update": "2026-03-28T19:47:28Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "APP": {
         "gamma": 7070792.6581031345,
         "vanna": 723566996.1802282,
         "spot": 147.23,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "RDDT": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "TEM": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "VST": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "ISRG": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:32Z"
     },
     "SATS": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "ASTS": {
         "gamma": 17970437.751285642,
         "vanna": 2253834.92861191,
         "spot": 34.82,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "APH": {
-        "gamma": 11412729.352834161,
-        "vanna": 53799335.0488759,
+        "gamma": 11412743.260757323,
+        "vanna": 53774403.37655028,
         "spot": 71.55,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "ORCL": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "NBIS": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "IREN": {
-        "gamma": 42208466.060370944,
-        "vanna": 18247607.17289334,
+        "gamma": 42208328.60037281,
+        "vanna": 18242126.17775047,
         "spot": 16.65,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "CRWV": {
-        "gamma": 44355101.38630414,
-        "vanna": 176012864.8717361,
+        "gamma": 44355006.41965376,
+        "vanna": 175961677.97025633,
         "spot": 30.02,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "ADBE": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "AMD": {
-        "gamma": 205877090.1807434,
-        "vanna": 5535711151.091421,
+        "gamma": 205876030.89969224,
+        "vanna": 5534461987.867018,
         "spot": 158.85,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "FIG": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "ADI": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "WDC": {
-        "gamma": 9946250.406144598,
-        "vanna": 342372800.43028206,
+        "gamma": 9946228.157785047,
+        "vanna": 342273548.7247287,
         "spot": 145.05,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "CEG": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "ZS": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "ANET": {
-        "gamma": 10476268.567339875,
-        "vanna": 69122941.14714932,
+        "gamma": 10476250.61518121,
+        "vanna": 69102535.87509567,
         "spot": 41.23,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "SPY": {
-        "gamma": 905263115.2401228,
-        "vanna": 131483084232.179,
+        "gamma": 905259302.8703511,
+        "vanna": 131446572097.99335,
         "spot": 140.53,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "QQQ": {
-        "gamma": 214495007.79909214,
-        "vanna": 28775322356.19034,
+        "gamma": 214493974.51592165,
+        "vanna": 28768120817.71007,
         "spot": 68.3,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     },
     "XOM": {
         "gamma": 0.0,
         "vanna": 0.0,
         "spot": NaN,
-        "last_update": "2026-03-28T19:47:29Z"
+        "last_update": "2026-03-28T20:02:33Z"
     }
 }
