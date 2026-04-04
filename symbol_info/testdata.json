@@ -1,5 +1,11 @@
 {
     "symbol": [
+        "LMT",
+        "RTX",
+        "LHX",
+        "TXN",
+        "MCHP",
+        "NOC",
         "NOW",
         "HIMS",
         "COIN",
@@ -51,6 +57,12 @@
         "TSM"
     ],
     "description": [
+        "LMT Gamma/Vanna Feed",
+        "RTX Gamma/Vanna Feed",
+        "LHX Gamma/Vanna Feed",
+        "TXN Gamma/Vanna Feed",
+        "MCHP Gamma/Vanna Feed",
+        "NOC Gamma/Vanna Feed",
         "NOW Gamma/Vanna Feed",
         "HIMS Gamma/Vanna Feed",
         "COIN Gamma/Vanna Feed",
