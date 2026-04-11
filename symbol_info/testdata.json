@@ -54,7 +54,8 @@
         "SPY",
         "QQQ",
         "XOM",
-        "TSM"
+        "TSM",
+        "ARM"
     ],
     "description": [
         "LMT Gamma/Vanna Feed",
@@ -111,7 +112,8 @@
         "SPY Gamma/Vanna Feed",
         "QQQ Gamma/Vanna Feed",
         "XOM Gamma/Vanna Feed",
-        "TSM Gamma/Vanna Feed"
+        "TSM Gamma/Vanna Feed",
+        "ARM Gamma/Vanna Feed"
     ],
     "pricescale": 100
 }
