@@ -1,6 +1,7 @@
 {
     "symbol": [
         "LMT",
+        "NIO",
         "RTX",
         "LHX",
         "TXN",
@@ -56,6 +57,7 @@
     ],
     "description": [
         "LMT Gamma/Vanna Feed",
+        "NIO Gamma/Vanna Feed",
         "RTX Gamma/Vanna Feed",
         "LHX Gamma/Vanna Feed",
         "TXN Gamma/Vanna Feed",
