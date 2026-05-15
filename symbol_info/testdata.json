@@ -60,9 +60,7 @@
         "SPGI",
         "MS",
         "GS",
-        "C",
-        "EQIX",
-        "NNE"
+        "C"
     ],
     "description": [
         "COST Gamma/Vanna Feed",
@@ -125,9 +123,7 @@
         "SPGI Gamma/Vanna Feed",
         "MS Gamma/Vanna Feed",
         "GS Gamma/Vanna Feed",
-        "C Gamma/Vanna Feed",
-        "EQIX Gamma/Vanna Feed",
-        "NNE Gamma/Vanna Feed"
+        "C Gamma/Vanna Feed"
     ],
     "pricescale": 100
 }
