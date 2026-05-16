@@ -60,7 +60,9 @@
         "SPGI",
         "MS",
         "GS",
-        "C"
+        "C",
+        "RDDT",
+        "NBIS"
     ],
     "description": [
         "COST Gamma/Vanna Feed",
@@ -123,7 +125,9 @@
         "SPGI Gamma/Vanna Feed",
         "MS Gamma/Vanna Feed",
         "GS Gamma/Vanna Feed",
-        "C Gamma/Vanna Feed"
+        "C Gamma/Vanna Feed",
+        "RDDT Gamma/Vanna Feed",
+        "NBIS Gamma/Vanna Feed"
     ],
     "pricescale": 100
 }
